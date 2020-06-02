@@ -1,0 +1,10 @@
+Day,Short Description,Temperature,Detailed Description,temp_num
+Tonight,Mostly Clear,Low: 49 °F,"Tonight: Mostly clear, with a low around 49. North northwest wind 6 to 8 mph becoming east northeast in the evening. ",49
+Tuesday,Chance Rain,High: 68 °F,"Tuesday: A 30 percent chance of rain after 11am.  Increasing clouds, with a high near 68. Calm wind becoming west around 6 mph in the afternoon. ",68
+TuesdayNight,ChanceShowers thenMostly Cloudy,Low: 52 °F,"Tuesday Night: A 30 percent chance of showers before 11pm.  Cloudy during the early evening, then becoming partly cloudy, with a low around 52. North wind 3 to 8 mph. ",52
+Wednesday,Partly Sunny,High: 68 °F,"Wednesday: Partly sunny, with a high near 68. East northeast wind 6 to 9 mph becoming north northwest in the morning. ",68
+WednesdayNight,Partly Cloudy,Low: 50 °F,"Wednesday Night: Partly cloudy, with a low around 50. North wind 6 to 10 mph becoming east northeast in the evening. ",50
+Thursday,Mostly Sunny,High: 69 °F,"Thursday: Mostly sunny, with a high near 69.",69
+ThursdayNight,Partly Cloudy,Low: 52 °F,"Thursday Night: Partly cloudy, with a low around 52.",52
+Friday,Slight ChanceRain,High: 69 °F,"Friday: A slight chance of rain after 11am.  Partly sunny, with a high near 69.",69
+FridayNight,Chance Rain,Low: 52 °F,"Friday Night: A chance of rain.  Mostly cloudy, with a low around 52.",52
